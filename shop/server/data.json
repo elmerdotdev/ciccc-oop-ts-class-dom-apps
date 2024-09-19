@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 20",
+      "price": 800.00
+    },
+    {
+      "id": 2,
+      "name": "Macbook M6",
+      "price": 1200.00
+    },
+    {
+      "id": 3,
+      "name": "iPad 2040",
+      "price": 600.00
+    }
+  ]
+}

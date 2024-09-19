@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #eee;
+}
+
+menu {
+  display: flex;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.content_wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+aside {
+  flex: 0 1 200px;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
